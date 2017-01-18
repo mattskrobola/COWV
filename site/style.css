@@ -1,0 +1,53 @@
+body{
+	
+	background-image: url("http://www.helderpinto.com/wp-content/uploads/2014/11/Helder_Pinto_Hanamura_01.jpg");
+	background-color: black;
+	background-repeat: no-repeat;
+	/* background-image: url("http://gapyearblogs.org/edvards-vitols/wp-content/uploads/sites/119/2014/07/website-background-1.jpg"); */
+	
+}
+ul{
+	background-color:rgba(0,255,0,0.5);
+	background
+}
+h1  {
+	 font-size: 50px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: black;
+	margin: bottom;
+	text-align: center;
+	font-weight: bold;
+
+}
+
+.heroes{
+	
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 170px;
+   
+
+}
+.hero{
+	
+	display: block;
+	font-weight: bold;
+}
+img{
+	background-color: grey;
+}
+a:link, a:visited {
+	text-decoration: none;
+	/*background-color: green;*/
+	
+	
+	color: black;
+	display: block;
+	margin-bottom: 4px;
+
+}
+a:hover , a:active {
+	background-color: red;
+	color: purple
+}

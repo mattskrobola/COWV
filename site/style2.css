@@ -1,0 +1,134 @@
+/* CSS Document */
+.home_bg {
+	padding: 2% 0 1% 1%;
+	background-color: rgba(0,255,0,0.5);
+}
+.fixed {
+   width: 100%;
+   height: 100%;
+}
+
+h1  {
+	font-size: 50px;
+	color: black;
+	text-align: center;
+	font-weight: bold;
+    
+}
+.heroes{	
+	vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    /* margin: 5px; */
+	width: 11%;
+	min-width:100px;
+ }
+ img { width: 75%; height: 75% }
+ a img { background: gray;}
+a:hover img { background: none;}
+ .hero{
+	
+	display: block;
+	font-weight: bold;
+}
+.heroes a {
+	color: black;
+	text-decoration: none;
+}
+a:hover , a:active {
+	background-color: red;
+	display:block;
+}
+.nav-tabs {
+    border-bottom: 2px solid #eee;
+}
+#myTabs a {
+	color: #444;
+}
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+	background-color: #aaa;
+}
+#active1  {
+	background-color: rgba(255,51,204,0.2); /* DVA */
+}
+#active2 {
+background-color: rgba(0, 102, 0, 0.2); /* BAstion */
+}
+#active3 {
+	background-color: rgba(0, 255, 0, 0.2); /* genji */
+}
+#active4 {
+	background-color: rgba(153, 102, 51, 0.2); /* hanzo */
+}
+
+#active5 {
+	background-color: rgba(255,102,0,0.2); /* Junkrat */
+}
+#active6 {
+	background-color: rgba(51,153,51,0.2); /* Lucio */
+}
+#active7 {
+	background-color: rgba(128,0,0,0.2); /* Mccree */
+}
+#active8 {
+	background-color: rgba(0,204,255,0.2); /* Mei Ana */
+}
+#active9 {
+	background-color: rgba(255,255,0,0.2); /* Mercy  ZEnyatta*/
+}
+#active10 {
+	background-color: rgba(51,51,0,0.2); /* Reaper */
+}
+#active11 {
+	background-color: rgba(0,102,102,0.2); /* Reinheart */
+}
+#active12 {
+	background-color: rgba(102,51,0,0.2); /* Roadhog */
+}
+#active13 {
+	background-color: rgba(0,0,120,0.2); /* Solider pharah*/
+}
+#active14 {
+	background-color: rgba(0,204,255,0.2); /* Sym */
+}
+#active15 {
+	background-color: rgba(102,102,153,0.2); /* Winston */
+}
+
+#active16 {
+	background-color: rgba(255,0,255,0.2); /* Zaryya */
+}
+#active17 {
+	background-color: rgba(102,0,255,0.2); /* widow*/
+}
+#active18 {
+	background-color: rgba(204,102,0,0.2); /* torb*/
+}
+
+#active19 {
+	background-color: rgba(255,102,0,0.2); /* tracer*/
+}
+
+
+
+
+	
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-top: 1%;
+  margin-bottom: 60px;
+  
+  background-color: #eee;
+}
+.homepage {
+	background-image: url("http://www.helderpinto.com/wp-content/uploads/2014/11/Helder_Pinto_Hanamura_01.jpg");
+width: 100%;
+height: 100%;
+
+}
+
